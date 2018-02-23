@@ -16,9 +16,9 @@
 *  Note: not set up in a class, just defined sequentially. 
 *
 * References: 
-*  learncpp.com
+*  learncpp.com - for ascii values
 *  note - my previous cpp class text was learncpp.com
-*  http://www.cplusplus.com/reference
+*  http://www.cplusplus.com/reference/stack/stack/stack/ - stack member functions
 *  DataStructuresAndAlgorithmAnalysisInCpp_2014.pdf page (103 to 108)
 *  Solutions Manual (page 21 to 23)
 *  note: Both of these posted on your GitHub
