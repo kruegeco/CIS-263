@@ -1,4 +1,6 @@
-# CIS263_Project_Template
+# CIS263_Hashing-Prj
+
+from template:
 A basic project template for all programming projects in CIS263.  Includes Catch, our unit testing framework.
 
 It is considered "good form" to separate different pieces of a project such as the source and executable files into their own directories.  While not every project will use each of these directories, every project should use at least some of them.  A properly setup project will be easier to maintain and diagnose.
